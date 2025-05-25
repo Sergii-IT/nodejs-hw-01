@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "050cdc6f-3952-4350-9f97-1c6dcb54203a",
+    "name": "Sidney Ritchie",
+    "phone": "(398) 416-6834 x85232",
+    "email": "Kristofer_Gerhold32@gmail.com",
+    "job": "Legacy Intranet Producer"
+  },
+  {
+    "id": "738ba14b-8901-419b-b6c9-22519e22a39d",
+    "name": "Pam Greenfelder-Larkin",
+    "phone": "1-300-650-4181 x8640",
+    "email": "Rodger.Beier@gmail.com",
+    "job": "Principal Infrastructure Administrator"
+  },
+  {
+    "id": "4b394442-a0c5-4232-af49-4ee1027b0177",
+    "name": "Miss Rhonda Bergnaum",
+    "phone": "1-856-276-8520",
+    "email": "Lavina_Roob@gmail.com",
+    "job": "Central Markets Liaison"
+  },
+  {
+    "id": "6f48f96c-89d0-4ded-9ee2-c8e979e7821f",
+    "name": "Viola Beahan",
+    "phone": "806.360.5338 x8660",
+    "email": "Guiseppe_McKenzie@gmail.com",
+    "job": "Corporate Program Analyst"
+  }
+]
